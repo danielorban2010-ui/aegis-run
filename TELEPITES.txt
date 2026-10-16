@@ -1,0 +1,17 @@
+AEGIS RUN – INGYENES TELEPITES WINDOWS + IPHONE
+
+1. Windows geprol nyisd meg a https://github.com oldalt es jelentkezz be.
+2. Hozz letre egy uj, PUBLIC repositoryt pl. aegis-run nevvel.
+3. Toltsd fel a ZIP-ben talalhato FAJLOKAT a repository gyokerebe (ne a kulso mappat).
+4. Settings > Pages > Build and deployment > Deploy from a branch > main / (root) > Save.
+5. A GitHub Pages megjelenit egy HTTPS-cimet, pl.: https://FELHASZNALO.github.io/aegis-run/
+6. Ezt a cimet nyisd meg az iPhone Safari bongeszojeben.
+7. Megosztas > Hozzaadas a fokepemyore > Megnyitas webalkalmazaskent > Hozzaadas.
+8. Inditas: az idomero mukodik GPS nelkul is. GPS engedelyezese: kulon gomb, az iOS kerhet helyengedelyt.
+
+FONTOS:
+- Nem nativ SwiftUI/iOS app, hanem telepitheto webalkalmazas.
+- A GPS csak HTTPS es felhasznaloi engedely mellett erheto el.
+- iPhone-on a lezart kepernyo / hatterbe helyezes megszakithatja a GPS frissiteseket es a tavolsagmerest.
+- Ne teszteld az eles utcan a telefont nezve. A biztonsagra figyelj.
+- GitHub Pages ingyenes publikus taroloban; a kod mindenki szamara megtekintheto. Futasadatok helyben tarolodnak, nem kerulnek a repositoryba.
